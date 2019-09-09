@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "removeComments": true,
+//    "outDir": "js",
+    "sourceMap": true,
+    "outFile": "index.js",
+
+  }
+}
