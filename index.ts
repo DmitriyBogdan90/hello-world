@@ -24,7 +24,7 @@ let users: object[] = [
         age: 202
     },
     {
-        name: "Tom",
+        name: "Tommy",
         age: 303
     }
     ];
